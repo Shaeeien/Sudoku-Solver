@@ -1,0 +1,14 @@
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\bin\Debug\net7.0\Sudoku-Solver.exe
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\bin\Debug\net7.0\Sudoku-Solver.deps.json
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\bin\Debug\net7.0\Sudoku-Solver.runtimeconfig.json
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\bin\Debug\net7.0\Sudoku-Solver.dll
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\bin\Debug\net7.0\Sudoku-Solver.pdb
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\obj\Debug\net7.0\Sudoku-Solver.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\obj\Debug\net7.0\Sudoku-Solver.AssemblyInfoInputs.cache
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\obj\Debug\net7.0\Sudoku-Solver.AssemblyInfo.cs
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\obj\Debug\net7.0\Sudoku-Solver.csproj.CoreCompileInputs.cache
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\obj\Debug\net7.0\Sudoku-Solver.dll
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\obj\Debug\net7.0\refint\Sudoku-Solver.dll
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\obj\Debug\net7.0\Sudoku-Solver.pdb
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\obj\Debug\net7.0\Sudoku-Solver.genruntimeconfig.cache
+F:\dotNETProjekty\Sudoku-Solver\Sudoku-Solver\obj\Debug\net7.0\ref\Sudoku-Solver.dll
