@@ -12,11 +12,16 @@ public class Cell
 
     public Cell(int value)
     {
-
+        Value = value;
+        PossibleNumbers = new List<int>() { value };
     }
 
     public void Remove(int number)
     {
         PossibleNumbers.Remove(number);
+        if(PossibleNumbers.Count == 1)
+        {
+            Value = PossibleNumbers[0];
+        }
     }
 }
