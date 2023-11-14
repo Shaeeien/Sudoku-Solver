@@ -6,20 +6,31 @@ public class Cell
     public int Value { get; set; }
     public Cell()
 	{
-        Value = -1;
+        Value = 0;
         PossibleNumbers = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 	}
 
     public Cell(int value)
     {
-        Value = value;
-        PossibleNumbers = new List<int>() { value };
+        if(value > 0)
+        {
+            Value = value;
+            PossibleNumbers = new List<int>() { value };
+        }
+        else
+        {
+            Value = 0;
+            PossibleNumbers = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+        }
     }
 
     public void Remove(int number)
     {
-        PossibleNumbers.Remove(number);
-        if(PossibleNumbers.Count == 1)
+        if (PossibleNumbers.Count > 1)
+        {
+            PossibleNumbers.Remove(number);
+        }
+        else
         {
             Value = PossibleNumbers[0];
         }
